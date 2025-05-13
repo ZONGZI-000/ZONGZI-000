@@ -9,7 +9,7 @@ Hello everyone, I am Zongzi, an unknown product manager.
 
 视频搜索：https://cse.google.com/cse?cx=27ae7a7385f8b45be
 
-# ima智能体
+# ima知识库
 
 历史：https://ima.qq.com/wiki/?shareId=782c49fffb425f9f068dfccadb6e4faea7ddb224e3cfdfb3b4da4c03f5ac95e8
 
