@@ -39,6 +39,19 @@
 
 ---
 
+## 🚀 我用到的主要 AI 工具
+
+下面是我常用的一些 AI 模型及工具：
+
+| 工具 | 图标 |
+|------|------|
+| **DeepSeek v4** | ![DeepSeek](https://img.icons8.com/stickers/100/000000/ssd.png) |
+| **Gemini** | ![Gemini](https://img.icons8.com/ios/100/000000/gemini.png) |
+| **Claude** | ![Claude](https://img.icons8.com/ios-glyphs/100/000000/artificial-intelligence.png) |
+| **GPT** | ![GPT](https://img.icons8.com/plasticine/100/000000/neural.png) |
+
+---
+
 ## 📱 联系我
 
 - **📧 邮箱** - [mr.zongzi666@gmail.com](mailto:mr.zongzi666@gmail.com)
