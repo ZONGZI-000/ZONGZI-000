@@ -1,4 +1,4 @@
-# 👋 你好，我是粽子 ZONGZI-000
+# 👋 你好，我是粽子 
 <p align="center">
   <img src="./animation.gif" alt="ZONGZI-000" width="220" />
 </p>
@@ -20,6 +20,13 @@
     <img src="https://img.shields.io/badge/Email-Contact%20Me-d14836?style=flat-square&logo=gmail&logoColor=white" alt="email" />
   </a>
 </p>
+<p align="center">
+  <img src="https://img.shields.io/badge/Gemini-4285F4?style=flat-square&logo=google&logoColor=white" alt="Gemini" />
+  <img src="https://img.shields.io/badge/Claude-111827?style=flat-square&logo=anthropic&logoColor=white" alt="Claude" />
+  <img src="https://img.shields.io/badge/GPT-10A37F?style=flat-square&logo=openai&logoColor=white" alt="GPT" />
+  <img src="https://img.shields.io/badge/DeepSeek-1E293B?style=flat-square" alt="DeepSeek" />
+</p>
+
 ## 🧑‍💻 关于我
 
 - **身份** - INTP / 产品经理
@@ -64,3 +71,4 @@
 ## 💬 欢迎交流和分享！
 
 如果你对产品管理、AI技术或知识管理感兴趣，欢迎通过邮箱或公众号与我联系！
+
