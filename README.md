@@ -89,7 +89,7 @@
 
 ---
 
-## 🌐 联系我
+## 💬 欢迎交流和分享！
 
 <div align="center">
 
@@ -99,16 +99,6 @@
 <p><em>分享产品、AI、历史等领域的深度内容与思考</em></p>
 
 </div>
-
----
-
-## 💬 欢迎交流和分享！
-
-<p align="center">
- 📱 <a href="#"><strong>关注公众号</strong></a>
-</p>
-
----
 
 <p align="center">
   <img src="https://img.shields.io/badge/Made%20with-❤️-red?style=flat-square" alt="Made with love" />
