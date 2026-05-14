@@ -41,32 +41,35 @@
 
 ## 📚 知识库资源
 
-我整理的核心知识库，涵盖以下领域：
+IMA知识库：
 
-<table align="center">
-  <tr>
-    <td align="center">
-      <b>📖 历史研究</b><br>
-      <a href="https://ima.qq.com/wiki/?shareId=782c49fffb425f9f068dfccadb6e4faea7ddb224e3cfdfb3b4da4c03f5ac95e8">
-        📔 进入知识库
-      </a>
-    </td>
-    <td align="center">
-      <b>🎯 产品管理</b><br>
-      <a href="https://ima.qq.com/wiki/?shareId=c0b6d9c293c647cab950f820614fe0d283aa5335660d4c0a6813fa5ace7dee62">
-        📔 进入知识库
-      </a>
-    </td>
-    <td align="center">
-      <b>🤖 AI & 技术</b><br>
-      <a href="https://ima.qq.com/wiki/?shareId=e255010ff9e018113110c5e0561a5942071681a8d7ab1e903aa4a7ed603cdd96">
-        📔 进入知识库
-      </a>
-    </td>
-  </tr>
-</table>
-
----
+<td align="center" valign="middle" style="border: 0; padding: 0; line-height: 0;">
+  <a href="https://ima.qq.com/wiki/?shareId=782c49fffb425f9f068dfccadb6e4faea7ddb224e3cfdfb3b4da4c03f5ac95e8" style="display: inline-block; line-height: 0; text-decoration: none;">
+    <img
+      src="https://img.shields.io/badge/历史研究-4C51BF?style=for-the-badge&logo=bookstack&logoColor=white"
+      alt="历史研究"
+      style="display: block; border: 0; outline: none; text-decoration: none;"
+    >
+  </a>
+</td>
+<td align="center" valign="middle" style="border: 0; padding: 0; line-height: 0;">
+  <a href="https://ima.qq.com/wiki/?shareId=c0b6d9c293c647cab950f820614fe0d283aa5335660d4c0a6813fa5ace7dee62" style="display: inline-block; line-height: 0; text-decoration: none;">
+    <img
+      src="https://img.shields.io/badge/产品管理-0F766E?style=for-the-badge&logo=notion&logoColor=white"
+      alt="产品管理"
+      style="display: block; border: 0; outline: none; text-decoration: none;"
+    >
+  </a>
+</td>
+<td align="center" valign="middle" style="border: 0; padding: 0; line-height: 0;">
+  <a href="https://ima.qq.com/wiki/?shareId=e255010ff9e018113110c5e0561a5942071681a8d7ab1e903aa4a7ed603cdd96" style="display: inline-block; line-height: 0; text-decoration: none;">
+    <img
+      src="https://img.shields.io/badge/AI%20%26%20技术-7C3AED?style=for-the-badge&logo=openai&logoColor=white"
+      alt="AI & 技术"
+      style="display: block; border: 0; outline: none; text-decoration: none;"
+    >
+  </a>
+</td>
 
 ## 🔍 实用工具
 
