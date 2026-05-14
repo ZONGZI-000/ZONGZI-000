@@ -93,10 +93,8 @@
 
 <div align="center">
 
-| 方式 | 联系方式 |
-|------|---------|
-| **📧 邮箱** | [mr.zongzi666@gmail.com](mailto:mr.zongzi666@gmail.com) |
-| **📢 公众号** | 粽子网上冲浪指南 |
+
+ **📢 公众号**  粽子网上冲浪指南 
 
 <p><em>分享产品、AI、历史等领域的深度内容与思考</em></p>
 
@@ -107,15 +105,7 @@
 ## 💬 欢迎交流和分享！
 
 <p align="center">
-  <strong>如果你对以下话题感兴趣，欢迎与我交流：</strong>
-</p>
-
-<p align="center">
-  🎯 产品管理与战略 · 🤖 AI技术应用 · 📚 知识管理体系 · 📖 历史研究
-</p>
-
-<p align="center">
-  📧 <a href="mailto:mr.zongzi666@gmail.com"><strong>发送邮件</strong></a> | 📱 <a href="#"><strong>关注公众号</strong></a>
+ 📱 <a href="#"><strong>关注公众号</strong></a>
 </p>
 
 ---
