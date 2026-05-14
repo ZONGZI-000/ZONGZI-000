@@ -1,11 +1,25 @@
-# 👋 大家好，我是粽子
-
-![zongzi](./animation.gif)
-
-不知名产品经理，专注于产品战略、AI技术和知识管理。
-
----
-
+# 👋 你好，我是粽子 ZONGZI-000
+<p align="center">
+  <img src="./animation.gif" alt="ZONGZI-000" width="220" />
+</p>
+<p align="center">
+  产品经理 · 关注产品战略 · AI 技术 · 知识管理
+</p>
+<p align="center">
+  <img src="https://img.shields.io/badge/PM-Product%20Manager-111827?style=flat-square" alt="PM" />
+  <img src="https://img.shields.io/badge/AI-Strategy%20%26%20Systems-0ea5e9?style=flat-square" alt="AI" />
+  <img src="https://img.shields.io/badge/Knowledge-Management-22c55e?style=flat-square" alt="Knowledge" />
+  <img src="https://img.shields.io/badge/Focus-Product%20%2B%20AI%20%2B%20Knowledge-f59e0b?style=flat-square" alt="Focus" />
+</p>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=ZONGZI-000&label=Profile%20views&color=0ea5e9&style=flat-square" alt="profile views" />
+  <a href="https://github.com/ZONGZI-000?tab=repositories">
+    <img src="https://img.shields.io/badge/Repos-View%20Projects-111827?style=flat-square&logo=github" alt="repos" />
+  </a>
+  <a href="mailto:mr.zongzi666@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact%20Me-d14836?style=flat-square&logo=gmail&logoColor=white" alt="email" />
+  </a>
+</p>
 ## 🧑‍💻 关于我
 
 - **身份** - INTP / 产品经理
