@@ -2,7 +2,7 @@
 <p align="center"><em>Hello, I'm Zongzi.</em></p>
 
 <p align="center">
-  <img src="./animation.gif" alt="ZONGZI-000" width="220" style="border-radius: 50%; box-shadow: 0 4px 6px rgba(0,0,0,0.1);" />
+  <img src="./animation.gif" alt="ZONGZI-000" width="220" />
 </p>
 
 <p align="center">
@@ -25,7 +25,7 @@
     <img src="https://img.shields.io/badge/Repos-View%20Projects-111827?style=flat-square&logo=github" alt="repos" />
   </a>
   <a href="mailto:mr.zongzi666@gmail.com">
-    <img src="https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white" alt="Gmail" />
+    <img src="https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white" alt="Gmail" />
   </a>
 </p>
 
@@ -38,46 +38,40 @@
 
 > "致力于整合和分享高价值的学习资源，探索产品、AI与知识管理的无限可能"
 
+<p align="center">
+  <a href="#-我在做什么">我在做什么</a> ·
+  <a href="#-知识库资源">知识库</a> ·
+  <a href="#-实用工具">工具</a> ·
+  <a href="#-欢迎交流和分享">联系</a>
+</p>
+
+## ✨ 我在做什么
+
+- 通过产品方法论把复杂问题拆解成可落地的方案与系统
+- 研究 AI 工作流与智能体，把能力变成可复用的工具与 SOP
+- 搭建个人知识管理体系：沉淀高质量资料、索引、结构与复盘
 
 ## 📚 知识库资源
 
-IMA知识库：
-
-<td align="center" valign="middle" style="border: 0; padding: 0; line-height: 0;">
-  <a href="https://ima.qq.com/wiki/?shareId=782c49fffb425f9f068dfccadb6e4faea7ddb224e3cfdfb3b4da4c03f5ac95e8" style="display: inline-block; line-height: 0; text-decoration: none;">
-    <img
-      src="https://img.shields.io/badge/历史研究-4C51BF?style=for-the-badge&logo=bookstack&logoColor=white"
-      alt="历史研究"
-      style="display: block; border: 0; outline: none; text-decoration: none;"
-    >
+<p align="center">
+  <a href="https://ima.qq.com/wiki/?shareId=782c49fffb425f9f068dfccadb6e4faea7ddb224e3cfdfb3b4da4c03f5ac95e8">
+    <img src="https://img.shields.io/badge/历史研究-4C51BF?style=flat-square&logo=bookstack&logoColor=white" alt="历史研究" />
   </a>
-</td>
-<td align="center" valign="middle" style="border: 0; padding: 0; line-height: 0;">
-  <a href="https://ima.qq.com/wiki/?shareId=c0b6d9c293c647cab950f820614fe0d283aa5335660d4c0a6813fa5ace7dee62" style="display: inline-block; line-height: 0; text-decoration: none;">
-    <img
-      src="https://img.shields.io/badge/产品管理-0F766E?style=for-the-badge&logo=notion&logoColor=white"
-      alt="产品管理"
-      style="display: block; border: 0; outline: none; text-decoration: none;"
-    >
+  <a href="https://ima.qq.com/wiki/?shareId=c0b6d9c293c647cab950f820614fe0d283aa5335660d4c0a6813fa5ace7dee62">
+    <img src="https://img.shields.io/badge/产品管理-0F766E?style=flat-square&logo=notion&logoColor=white" alt="产品管理" />
   </a>
-</td>
-<td align="center" valign="middle" style="border: 0; padding: 0; line-height: 0;">
-  <a href="https://ima.qq.com/wiki/?shareId=e255010ff9e018113110c5e0561a5942071681a8d7ab1e903aa4a7ed603cdd96" style="display: inline-block; line-height: 0; text-decoration: none;">
-    <img
-      src="https://img.shields.io/badge/AI%20%26%20技术-7C3AED?style=for-the-badge&logo=openai&logoColor=white"
-      alt="AI & 技术"
-      style="display: block; border: 0; outline: none; text-decoration: none;"
-    >
+  <a href="https://ima.qq.com/wiki/?shareId=e255010ff9e018113110c5e0561a5942071681a8d7ab1e903aa4a7ed603cdd96">
+    <img src="https://img.shields.io/badge/AI%20%26%20技术-7C3AED?style=flat-square&logo=openai&logoColor=white" alt="AI & 技术" />
   </a>
-</td>
+</p>
 
 ## 🔍 实用工具
 
 ### 搜索引擎
-- **[Google 视频搜索](https://cse.google.com/cse?cx=27ae7a7385f8b45be)** - 自定义视频内容搜索引擎 🎬
+- **[Google 视频搜索](https://cse.google.com/cse?cx=27ae7a7385f8b45be)** - 自定义视频内容搜索引擎
 
 ### AI 智能体
-- **[豆包历史Bot](https://doubao.com/bot/nrvwxuNU)** - 专门处理历史相关问题的智能对话助手 🤖
+- **[豆包历史Bot](https://doubao.com/bot/nrvwxuNU)** - 处理历史相关问题的智能对话助手
 
 ---
 
