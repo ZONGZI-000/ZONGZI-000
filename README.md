@@ -1,23 +1,28 @@
-# 👋 你好，我是粽子 
+<h1 align="center">👋 你好，我是粽子</h1>
+<p align="center">Hello, I'm Zongzi.</p>
 <p align="center">
   <img src="./animation.gif" alt="ZONGZI-000" width="220" />
 </p>
 <p align="center">
-  产品经理 · 关注产品战略 · AI 技术 · 知识管理
+  产品 · 设计 · AI 技术 · 知识管理
+</p>
+<p align="center">
+  <small>Product · Design · AI Technology · Knowledge Management</small>
 </p>
 <p align="center">
   <img src="https://img.shields.io/badge/PM-Product%20Manager-111827?style=flat-square" alt="PM" />
   <img src="https://img.shields.io/badge/AI-Strategy%20%26%20Systems-0ea5e9?style=flat-square" alt="AI" />
   <img src="https://img.shields.io/badge/Knowledge-Management-22c55e?style=flat-square" alt="Knowledge" />
   <img src="https://img.shields.io/badge/Focus-Product%20%2B%20AI%20%2B%20Knowledge-f59e0b?style=flat-square" alt="Focus" />
-</p>
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=ZONGZI-000&label=Profile%20views&color=0ea5e9&style=flat-square" alt="profile views" />
+  <a href="https://github.com/ZONGZI-000?tab=repositories">
+    <img src="https://komarev.com/ghpvc/?username=ZONGZI-000&label=Profile%20views&color=0ea5e9&style=flat-square" alt="profile views" />
+  </a>
   <a href="https://github.com/ZONGZI-000?tab=repositories">
     <img src="https://img.shields.io/badge/Repos-View%20Projects-111827?style=flat-square&logo=github" alt="repos" />
   </a>
   <a href="mailto:mr.zongzi666@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact%20Me-d14836?style=flat-square&logo=gmail&logoColor=white" alt="email" />
+    <img src="https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white" alt="Gmail" />
   </a>
 </p>
 <p align="center">
@@ -26,6 +31,7 @@
   <img src="https://img.shields.io/badge/GPT-10A37F?style=flat-square&logo=openai&logoColor=white" alt="GPT" />
   <img src="https://img.shields.io/badge/DeepSeek-1E293B?style=flat-square" alt="DeepSeek" />
 </p>
+
 
 ## 🧑‍💻 关于我
 
