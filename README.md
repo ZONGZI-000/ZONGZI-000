@@ -30,10 +30,11 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Gemini-4285F4?style=flat-square&logo=google&logoColor=white" alt="Gemini" />
-  <img src="https://img.shields.io/badge/Claude-111827?style=flat-square&logo=anthropic&logoColor=white" alt="Claude" />
-  <img src="https://img.shields.io/badge/GPT-10A37F?style=flat-square&logo=openai&logoColor=white" alt="GPT" />
-  <img src="https://img.shields.io/badge/DeepSeek-1E293B?style=flat-square" alt="DeepSeek" />
+   <img src="https://avatars.githubusercontent.com/u/148330874?s=200&v=4" width="40" height="40" alt="DeepSeek" title="DeepSeek" />
+  &nbsp;
+  <img src="https://avatars.githubusercontent.com/u/81847?s=64&v=4" width="40" height="40" alt="Claude" title="Claude" />
+  &nbsp;
+  <img src="https://raw.githubusercontent.com/ZONGZI-000/ZONGZI-000/main/%E5%9B%BE%E5%BA%8A/chatgpt-icon.png" width="40" height="40" alt="ChatGPT" title="ChatGPT" />
 </p>
 
 > "致力于整合和分享高价值的学习资源，探索产品、AI与知识管理的无限可能"
