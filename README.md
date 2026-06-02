@@ -32,9 +32,11 @@
 <p align="center">
    <img src="https://avatars.githubusercontent.com/u/148330874?s=200&v=4" width="40" height="40" alt="DeepSeek" title="DeepSeek" />
   &nbsp;
-  <img src="https://avatars.githubusercontent.com/u/81847?s=64&v=4" width="40" height="40" alt="Claude" title="Claude" />
+   <img src="https://github.com/ZONGZI-000/ZONGZI-000/blob/main/%E5%9B%BE%E5%BA%8A/gemini-icon.webp" width="40" height="40" alt="Gemini" title="Gemini" />
   &nbsp;
   <img src="https://raw.githubusercontent.com/ZONGZI-000/ZONGZI-000/main/%E5%9B%BE%E5%BA%8A/chatgpt-icon.png" width="40" height="40" alt="ChatGPT" title="ChatGPT" />
+  <img src="https://avatars.githubusercontent.com/u/81847?s=64&v=4" width="40" height="40" alt="Claude" title="Claude" />
+  &nbsp;
 </p>
 
 > "致力于整合和分享高价值的学习资源，探索产品、AI与知识管理的无限可能"
