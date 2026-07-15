@@ -81,8 +81,8 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ZONGZI-000&show_icons=true&theme=dark&hide_border=true" width="49%" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZONGZI-000&layout=compact&theme=dark&hide_border=true" width="49%" alt="Top Languages" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ZONGZI-000&theme=nord_dark" width="49%" alt="GitHub Stats" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ZONGZI-000&theme=nord_dark" width="49%" alt="Top Languages" />
 </p>
 
 <br>
