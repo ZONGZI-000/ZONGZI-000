@@ -35,8 +35,9 @@
   <img src="https://img.shields.io/badge/-Obsidian-000?style=flat-square&logo=obsidian&logoColor=white" alt="Obsidian" />
 </p>
 
-## 📖 知识库资源
-
+<p align="center">
+  <img src="./assets/readme/card-knowledge.svg" width="100%" alt="知识库资源">
+</p>
 <p align="center">
   <a href="https://ima.qq.com/wiki/?shareId=782c49fffb425f9f068dfccadb6e4faea7ddb224e3cfdfb3b4da4c03f5ac95e8">
     <img src="https://img.shields.io/badge/历史研究-4C51BF?style=for-the-badge&logo=bookstack&logoColor=white" alt="历史研究" />
