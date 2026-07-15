@@ -29,17 +29,17 @@
 
 <p align="center">
   <a href="https://ima.qq.com/wiki/?shareId=782c49fffb425f9f068dfccadb6e4faea7ddb224e3cfdfb3b4da4c03f5ac95e8">
-    <img src="./assets/readme/card-knowledge-history.svg?v=2" width="380" alt="历史研究">
+    <img src="./assets/readme/card-knowledge-history.svg?v=2" width="100%" alt="历史研究">
   </a>
 </p>
 <p align="center">
   <a href="https://ima.qq.com/wiki/?shareId=c0b6d9c293c647cab950f820614fe0d283aa5335660d4c0a6813fa5ace7dee62">
-    <img src="./assets/readme/card-knowledge-product.svg?v=2" width="380" alt="产品设计">
+    <img src="./assets/readme/card-knowledge-product.svg?v=2" width="100%" alt="产品设计">
   </a>
 </p>
 <p align="center">
   <a href="https://ima.qq.com/wiki/?shareId=e255010ff9e018113110c5e0561a5942071681a8d7ab1e903aa4a7ed603cdd96">
-    <img src="./assets/readme/card-knowledge-ai.svg?v=3" width="380" alt="AI & 技术">
+    <img src="./assets/readme/card-knowledge-ai.svg?v=3" width="100%" alt="AI & 技术">
   </a>
 </p>
 
