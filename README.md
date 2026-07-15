@@ -1,11 +1,11 @@
 <p align="center">
-  <img src="./assets/readme/hero.svg?v=2" width="100%" alt="粽子 - Product · Design · AI Technology · Knowledge Management">
+  <img src="./assets/readme/hero.svg?v=3" width="100%" alt="粽子 - Product · Design · AI Technology · Knowledge Management">
 </p>
 
 <!-- ## 🧭 我在做什么 -->
 
 <p align="center">
-  <img src="./assets/readme/section-what-i-do.svg?v=2" width="100%" alt="我在做什么 - 产品·设计·AI·知识管理">
+  <img src="./assets/readme/section-what-i-do.svg?v=3" width="100%" alt="我在做什么 - 产品·设计·AI·知识管理">
 </p>
 
 <div align="center">
@@ -41,7 +41,7 @@
 <!-- ## 🧰 常用工具栈 -->
 
 <p align="center">
-  <img src="./assets/readme/section-tools.svg?v=2" width="100%" alt="常用工具栈 - AI Tools & Platforms">
+  <img src="./assets/readme/section-tools.svg?v=3" width="100%" alt="常用工具栈 - AI Tools & Platforms">
 </p>
 
 <p align="center">
@@ -61,7 +61,7 @@
 <!-- ## 📖 知识库资源 -->
 
 <p align="center">
-  <img src="./assets/readme/section-knowledge.svg?v=2" width="100%" alt="知识库资源 - Knowledge Base">
+  <img src="./assets/readme/section-knowledge.svg?v=3" width="100%" alt="知识库资源 - Knowledge Base">
 </p>
 
 <p align="center">
@@ -81,7 +81,7 @@
 <!-- ## 🛠 实用工具 -->
 
 <p align="center">
-  <img src="./assets/readme/section-utilities.svg?v=2" width="100%" alt="实用工具 - Utilities">
+  <img src="./assets/readme/section-utilities.svg?v=3" width="100%" alt="实用工具 - Utilities">
 </p>
 
 ### 🔍 自定义搜索引擎
@@ -97,7 +97,7 @@
 <!-- ## 🤝 欢迎交流 -->
 
 <p align="center">
-  <img src="./assets/readme/section-contact.svg?v=2" width="100%" alt="欢迎交流 - Get in Touch">
+  <img src="./assets/readme/section-contact.svg?v=3" width="100%" alt="欢迎交流 - Get in Touch">
 </p>
 
 <div align="center">
@@ -124,7 +124,7 @@
 <!-- ## 📊 GitHub 统计 -->
 
 <p align="center">
-  <img src="./assets/readme/section-stats.svg?v=2" width="100%" alt="GitHub 统计">
+  <img src="./assets/readme/section-stats.svg?v=3" width="100%" alt="GitHub 统计">
 </p>
 
 <p align="center">
