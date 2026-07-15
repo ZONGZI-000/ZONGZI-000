@@ -2,9 +2,7 @@
   <img src="./assets/readme/hero.svg?v=6" width="100%" alt="粽子 - Product · Design · AI Technology · Knowledge Management">
 </p>
 
-<p align="center">
-  <img src="./animation.gif" width="200" alt="ZONGZI-000 animation">
-</p>
+
 
 <br>
 
@@ -113,7 +111,9 @@
   &nbsp;
   <img src="https://img.shields.io/badge/Let's%20Build%20Together-d97706?style=flat-square" alt="Let's Build Together" />
 </p>
-
+<p align="center">
+  <img src="./animation.gif" width="200" alt="ZONGZI-000 animation">
+</p>
 <p align="center">
   <sub>☕ 如果内容对你有帮助，不妨点个 Star 支持一下</sub>
 </p>
