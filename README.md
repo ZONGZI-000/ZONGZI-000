@@ -8,35 +8,9 @@
 
 <br>
 
-## 🧭 我在做什么
-
-<div align="center">
-  <table>
-    <tr>
-      <td width="33%" align="center">
-        <br>
-        <strong>📐 产品设计</strong><br>
-        <sub>Product Design</sub><br>
-        <br>
-        通过产品思维把抽象概念转化为<br>可落地的方案和系统
-      </td>
-      <td width="33%" align="center">
-        <br>
-        <strong>🤖 AI 应用</strong><br>
-        <sub>AI Applications</sub><br>
-        <br>
-        研究 AI 能力边界与最佳实践，<br>转化为可复用的工作流 SOP
-      </td>
-      <td width="33%" align="center">
-        <br>
-        <strong>📚 知识管理</strong><br>
-        <sub>Knowledge Management</sub><br>
-        <br>
-        构建个人知识管理体系：<br>信息输入 → 提炼结构 → 复利成长
-      </td>
-    </tr>
-  </table>
-</div>
+<p align="center">
+  <img src="./assets/readme/card-what-i-do.svg" width="100%" alt="我在做什么 - 产品设计 · AI 应用 · 知识管理">
+</p>
 
 <br>
 

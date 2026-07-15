@@ -1,0 +1,42 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 240" width="100%">
+  <defs>
+    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#fafaf9"/>
+      <stop offset="100%" stop-color="#f5f5f4"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#d97706"/>
+      <stop offset="100%" stop-color="#f59e0b"/>
+    </linearGradient>
+    <linearGradient id="divider" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" stop-color="#e7e5e4"/>
+      <stop offset="50%" stop-color="#d6d3d1"/>
+      <stop offset="100%" stop-color="#e7e5e4"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="240" fill="url(#bg)" rx="16"/>
+  <rect x="30" y="30" width="32" height="3" rx="1.5" fill="url(#accent)"/>
+  <text x="78" y="35" font-family="-apple-system,BlinkMacSystemFont,PingFang SC,sans-serif" font-size="22" font-weight="600" fill="#1c1917">🧭 我在做什么</text>
+
+  <!-- Column dividers -->
+  <line x1="400" y1="70" x2="400" y2="210" stroke="#e7e5e4" stroke-width="1"/>
+  <line x1="800" y1="70" x2="800" y2="210" stroke="#e7e5e4" stroke-width="1"/>
+
+  <!-- Column 1: 产品设计 -->
+  <text x="200" y="105" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,sans-serif" font-size="28" text-anchor="middle">📐</text>
+  <text x="200" y="140" font-family="-apple-system,BlinkMacSystemFont,PingFang SC,sans-serif" font-size="18" font-weight="600" fill="#1c1917" text-anchor="middle">产品设计</text>
+  <text x="200" y="160" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,sans-serif" font-size="12" fill="#a8a29e" text-anchor="middle">Product Design</text>
+  <text x="200" y="190" font-family="-apple-system,BlinkMacSystemFont,PingFang SC,sans-serif" font-size="14" fill="#57534e" text-anchor="middle">通过产品思维把抽象概念<br/>转化为可落地的方案和系统</text>
+
+  <!-- Column 2: AI 应用 -->
+  <text x="600" y="105" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,sans-serif" font-size="28" text-anchor="middle">🤖</text>
+  <text x="600" y="140" font-family="-apple-system,BlinkMacSystemFont,PingFang SC,sans-serif" font-size="18" font-weight="600" fill="#1c1917" text-anchor="middle">AI 应用</text>
+  <text x="600" y="160" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,sans-serif" font-size="12" fill="#a8a29e" text-anchor="middle">AI Applications</text>
+  <text x="600" y="190" font-family="-apple-system,BlinkMacSystemFont,PingFang SC,sans-serif" font-size="14" fill="#57534e" text-anchor="middle">研究 AI 能力边界与最佳实践<br/>转化为可复用的工作流 SOP</text>
+
+  <!-- Column 3: 知识管理 -->
+  <text x="1000" y="105" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,sans-serif" font-size="28" text-anchor="middle">📚</text>
+  <text x="1000" y="140" font-family="-apple-system,BlinkMacSystemFont,PingFang SC,sans-serif" font-size="18" font-weight="600" fill="#1c1917" text-anchor="middle">知识管理</text>
+  <text x="1000" y="160" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,sans-serif" font-size="12" fill="#a8a29e" text-anchor="middle">Knowledge Management</text>
+  <text x="1000" y="190" font-family="-apple-system,BlinkMacSystemFont,PingFang SC,sans-serif" font-size="14" fill="#57534e" text-anchor="middle">构建个人知识管理体系<br/>信息输入 → 提炼结构 → 复利成长</text>
+</svg>
