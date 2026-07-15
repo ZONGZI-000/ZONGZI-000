@@ -2,20 +2,15 @@
   <img src="./assets/readme/hero.svg?v=9" width="100%" alt="粽子 - Product · Design · AI Technology · Knowledge Management">
 </p>
 
-<br>
-
 <p align="center">
   <img src="./assets/readme/card-what-i-do.svg" width="100%" alt="我在做什么 - 产品设计 · AI 应用 · 知识管理">
 </p>
-
-<br>
 
 <p align="center">
   <a href="https://github.com/ZONGZI-000/Zongzi-Bookmark-Tools">
     <img src="./assets/readme/card-project-v2.svg" width="100%" alt="开源项目">
   </a>
 </p>
-<br>
 
 <p align="center">
   <img src="./assets/readme/card-stats.svg" width="100%" alt="GitHub 统计">
@@ -38,8 +33,6 @@
   <img src="https://img.shields.io/badge/-Obsidian-000?style=flat-square&logo=obsidian&logoColor=white" alt="Obsidian" />
 </p>
 
-<br>
-
 ## 📖 知识库资源
 
 <p align="center">
@@ -56,8 +49,6 @@
   </a>
 </p>
 
-<br>
-
 ## 🤝 欢迎交流
 
 <p align="center">
@@ -69,8 +60,6 @@
 <p align="center">
   <img src="./animation.gif" width="200" alt="ZONGZI-000 animation">
 </p>
-
-<br>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Made%20with%20%E2%9D%A4%EF%B8%8F-f5f5f4?style=flat-square&labelColor=f5f5f4&color=d97706" alt="Made with love" />
