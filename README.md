@@ -14,18 +14,8 @@
 
 <br>
 
-## 🧰 常用工具栈
-
 <p align="center">
-  <img src="https://img.shields.io/badge/-ChatGPT-000000?style=flat-square&logo=openai&logoColor=white" alt="ChatGPT" />
-  <img src="https://img.shields.io/badge/-Claude-000000?style=flat-square&logo=anthropic&logoColor=white" alt="Claude" />
-  <img src="https://img.shields.io/badge/-Gemini-000000?style=flat-square&logo=googlegemini&logoColor=white" alt="Gemini" />
-  <img src="https://img.shields.io/badge/-DeepSeek-000000?style=flat-square&logoColor=white" alt="DeepSeek" />
-  <img src="https://img.shields.io/badge/-Cursor-000000?style=flat-square&logo=cursor&logoColor=white" alt="Cursor" />
-  <img src="https://img.shields.io/badge/-VS%20Code-000000?style=flat-square&logo=visualstudiocode&logoColor=white" alt="VS Code" />
-  <img src="https://img.shields.io/badge/-Figma-000000?style=flat-square&logo=figma&logoColor=white" alt="Figma" />
-  <img src="https://img.shields.io/badge/-Notion-000000?style=flat-square&logo=notion&logoColor=white" alt="Notion" />
-  <img src="https://img.shields.io/badge/-Obsidian-000000?style=flat-square&logo=obsidian&logoColor=white" alt="Obsidian" />
+  <img src="./assets/readme/card-tools.svg" width="100%" alt="常用工具栈">
 </p>
 
 <br>

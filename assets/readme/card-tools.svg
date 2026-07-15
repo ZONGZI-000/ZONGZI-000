@@ -1,0 +1,44 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 180" width="100%">
+  <defs>
+    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#fafaf9"/>
+      <stop offset="100%" stop-color="#f5f5f4"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#d97706"/>
+      <stop offset="100%" stop-color="#f59e0b"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="180" fill="url(#bg)" rx="16"/>
+  <rect x="30" y="30" width="32" height="3" rx="1.5" fill="url(#accent)"/>
+  <text x="78" y="35" font-family="-apple-system,BlinkMacSystemFont,PingFang SC,sans-serif" font-size="22" font-weight="600" fill="#1c1917">🧰 常用工具栈</text>
+
+  <!-- Row 1: AI tools -->
+  <rect x="40" y="70" width="120" height="36" rx="18" fill="#292524"/>
+  <text x="100" y="93" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,sans-serif" font-size="13" font-weight="500" fill="#f5f5f4" text-anchor="middle">ChatGPT</text>
+
+  <rect x="172" y="70" width="110" height="36" rx="18" fill="#292524"/>
+  <text x="227" y="93" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,sans-serif" font-size="13" font-weight="500" fill="#f5f5f4" text-anchor="middle">Claude</text>
+
+  <rect x="294" y="70" width="110" height="36" rx="18" fill="#292524"/>
+  <text x="349" y="93" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,sans-serif" font-size="13" font-weight="500" fill="#f5f5f4" text-anchor="middle">Gemini</text>
+
+  <rect x="416" y="70" width="120" height="36" rx="18" fill="#292524"/>
+  <text x="476" y="93" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,sans-serif" font-size="13" font-weight="500" fill="#f5f5f4" text-anchor="middle">DeepSeek</text>
+
+  <rect x="548" y="70" width="110" height="36" rx="18" fill="#292524"/>
+  <text x="603" y="93" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,sans-serif" font-size="13" font-weight="500" fill="#f5f5f4" text-anchor="middle">Cursor</text>
+
+  <!-- Row 2: Dev & Design tools -->
+  <rect x="40" y="120" width="120" height="36" rx="18" fill="#292524"/>
+  <text x="100" y="143" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,sans-serif" font-size="13" font-weight="500" fill="#f5f5f4" text-anchor="middle">VS Code</text>
+
+  <rect x="172" y="120" width="110" height="36" rx="18" fill="#292524"/>
+  <text x="227" y="143" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,sans-serif" font-size="13" font-weight="500" fill="#f5f5f4" text-anchor="middle">Figma</text>
+
+  <rect x="294" y="120" width="110" height="36" rx="18" fill="#292524"/>
+  <text x="349" y="143" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,sans-serif" font-size="13" font-weight="500" fill="#f5f5f4" text-anchor="middle">Notion</text>
+
+  <rect x="416" y="120" width="120" height="36" rx="18" fill="#292524"/>
+  <text x="476" y="143" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,sans-serif" font-size="13" font-weight="500" fill="#f5f5f4" text-anchor="middle">Obsidian</text>
+</svg>
