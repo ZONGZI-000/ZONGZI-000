@@ -37,7 +37,7 @@
   </a>
   &nbsp;
   <a href="https://ima.qq.com/wiki/?shareId=e255010ff9e018113110c5e0561a5942071681a8d7ab1e903aa4a7ed603cdd96">
-    <img src="https://img.shields.io/badge/AI_&_技术-7C3AED?style=for-the-badge&logo=openai&logoColor=white" alt="AI & 技术">
+    <img src="https://img.shields.io/badge/AI%20%26%20%E6%8A%80%E6%9C%AF-7C3AED?style=for-the-badge&logo=openai&logoColor=white" alt="AI & 技术">
   </a>
 </p>
 
