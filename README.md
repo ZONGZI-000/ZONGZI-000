@@ -24,6 +24,10 @@
 
 
 <p align="center">
+  <img src="./assets/readme/card-knowledge-header.svg" width="100%" alt="知识库资源">
+</p>
+
+<p align="center">
   <a href="https://ima.qq.com/wiki/?shareId=782c49fffb425f9f068dfccadb6e4faea7ddb224e3cfdfb3b4da4c03f5ac95e8">
     <img src="./assets/readme/card-knowledge-history.svg?v=2" width="32%" alt="历史研究">
   </a>
