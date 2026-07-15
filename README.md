@@ -1,6 +1,7 @@
 <p align="center">
   <img src="./assets/readme/hero.svg?v=9" width="100%" alt="粽子 - Product · Design · AI Technology · Knowledge Management">
 </p>
+
 <p align="center">
   <img src="./animation.gif" width="200" alt="ZONGZI-000 animation">
 </p>
@@ -81,8 +82,8 @@
 </p>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ZONGZI-000&theme=nord_dark" width="49%" alt="GitHub Stats" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ZONGZI-000&theme=nord_dark" width="49%" alt="Top Languages" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ZONGZI-000&theme=default" width="49%" alt="GitHub Stats" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ZONGZI-000&theme=default" width="49%" alt="Top Languages" />
 </p>
 
 <br>
