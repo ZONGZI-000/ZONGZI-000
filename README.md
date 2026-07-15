@@ -26,6 +26,12 @@
 
 <br>
 
+<p align="center">
+  <img src="./assets/readme/card-project.svg" width="100%" alt="开源项目">
+</p>
+
+<br>
+
 ## 📖 知识库资源
 
 <p align="center">
@@ -41,23 +47,6 @@
     <img src="https://img.shields.io/badge/AI%20%26%20技术-7C3AED?style=for-the-badge&logo=openai&logoColor=white" alt="AI & 技术" />
   </a>
 </p>
-
-<br>
-
-## 🛠 实用工具 & 开源项目
-
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <strong>🔍 自定义搜索引擎</strong><br><br>
-      <a href="https://cse.google.com/cse?cx=27ae7a7385f8b45be">Google 视频搜索</a> — 视频内容搜索引擎
-    </td>
-    <td width="50%" valign="top">
-      <strong>📦 开源项目</strong><br><br>
-      <a href="https://github.com/ZONGZI-000/Zongzi-Bookmark-Tools">🌰 粽子书签工具</a> — Chrome 扩展：WebDAV 同步 + AI 分类
-    </td>
-  </tr>
-</table>
 
 <br>
 
