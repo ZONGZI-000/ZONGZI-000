@@ -1,5 +1,9 @@
 <p align="center">
-  <img src="./assets/readme/hero.svg?v=5" width="100%" alt="粽子 - Product · Design · AI Technology · Knowledge Management">
+  <img src="./assets/readme/hero.svg?v=6" width="100%" alt="粽子 - Product · Design · AI Technology · Knowledge Management">
+</p>
+
+<p align="center">
+  <img src="./animation.gif" width="200" alt="ZONGZI-000 animation">
 </p>
 
 <br>
