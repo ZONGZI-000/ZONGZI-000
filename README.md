@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./assets/readme/hero.svg" width="100%" alt="粽子 - Product · Design · AI Technology · Knowledge Management">
+  <img src="./assets/readme/hero.svg?v=5" width="100%" alt="粽子 - Product · Design · AI Technology · Knowledge Management">
 </p>
 
 <br>
@@ -58,11 +58,11 @@
   <a href="https://ima.qq.com/wiki/?shareId=782c49fffb425f9f068dfccadb6e4faea7ddb224e3cfdfb3b4da4c03f5ac95e8">
     <img src="https://img.shields.io/badge/历史研究-4C51BF?style=for-the-badge&logo=bookstack&logoColor=white" alt="历史研究" />
   </a>
-  &nbsp;&nbsp;
+  &nbsp;
   <a href="https://ima.qq.com/wiki/?shareId=c0b6d9c293c647cab950f820614fe0d283aa5335660d4c0a6813fa5ace7dee62">
     <img src="https://img.shields.io/badge/产品设计-0F766E?style=for-the-badge&logo=notion&logoColor=white" alt="产品设计" />
   </a>
-  &nbsp;&nbsp;
+  &nbsp;
   <a href="https://ima.qq.com/wiki/?shareId=e255010ff9e018113110c5e0561a5942071681a8d7ab1e903aa4a7ed603cdd96">
     <img src="https://img.shields.io/badge/AI%20%26%20技术-7C3AED?style=for-the-badge&logo=openai&logoColor=white" alt="AI & 技术" />
   </a>
@@ -96,8 +96,6 @@
 </p>
 
 <br>
-
-## 📊 GitHub 统计
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=ZONGZI-000&show_icons=true&theme=default&hide_border=true&bg_color=ffffff&icon_color=d97706&text_color=57534e&title_color=d97706" width="49%" alt="GitHub Stats" />
