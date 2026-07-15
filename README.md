@@ -70,8 +70,12 @@
 <br>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ZONGZI-000&show_icons=true&theme=default&hide_border=true&bg_color=ffffff&icon_color=d97706&text_color=57534e&title_color=d97706" width="49%" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZONGZI-000&layout=compact&theme=default&hide_border=true&bg_color=ffffff&icon_color=d97706&text_color=57534e&title_color=d97706" width="49%" alt="Top Languages" />
+  <img src="./assets/readme/card-stats.svg" width="100%" alt="GitHub 统计">
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ZONGZI-000&show_icons=true&theme=dark&hide_border=true&bg_color=1c1917&icon_color=f59e0b&text_color=a8a29e&title_color=f59e0b" width="49%" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZONGZI-000&layout=compact&theme=dark&hide_border=true&bg_color=1c1917&icon_color=f59e0b&text_color=a8a29e&title_color=f59e0b" width="49%" alt="Top Languages" />
 </p>
 
 <br>
