@@ -11,7 +11,9 @@
 <br>
 
 <p align="center">
-  <img src="./assets/readme/card-project-v2.svg" width="100%" alt="开源项目">
+  <a href="https://github.com/ZONGZI-000/Zongzi-Bookmark-Tools">
+    <img src="./assets/readme/card-project-v2.svg" width="100%" alt="开源项目">
+  </a>
 </p>
 
 <p align="center">
