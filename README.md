@@ -22,12 +22,12 @@
 </p>
 
 <p align="center">
-  <img src="https://avatars.githubusercontent.com/u/148330874?s=80&v=4" width="20" height="20" style="border-radius:4px" alt="DeepSeek" />
-  <img src="https://raw.githubusercontent.com/ZONGZI-000/ZONGZI-000/main/%E5%9B%BE%E5%BA%8A/gemini-icon.webp" width="20" height="20" alt="Gemini" />
-  <img src="https://raw.githubusercontent.com/ZONGZI-000/ZONGZI-000/main/%E5%9B%BE%E5%BA%8A/chatgpt-icon.png" width="20" height="20" alt="ChatGPT" />
-  <img src="https://avatars.githubusercontent.com/u/81847?s=80&v=4" width="20" height="20" style="border-radius:4px" alt="Claude" />
-  <img src="https://avatars.githubusercontent.com/u/187777663?s=48&v=4" width="20" height="20" style="border-radius:4px" alt="CherryStudio" />
-  <img src="https://raw.githubusercontent.com/ZONGZI-000/ZONGZI-000/main/%E5%9B%BE%E5%BA%8A/newmax-icon.png" width="20" height="20" alt="NewMax" />
+  <img src="https://avatars.githubusercontent.com/u/148330874?s=80&v=4" width="28" height="28" style="border-radius:4px" alt="DeepSeek" />
+  <img src="https://raw.githubusercontent.com/ZONGZI-000/ZONGZI-000/main/%E5%9B%BE%E5%BA%8A/gemini-icon.webp" width="28" height="28" alt="Gemini" />
+  <img src="https://raw.githubusercontent.com/ZONGZI-000/ZONGZI-000/main/%E5%9B%BE%E5%BA%8A/chatgpt-icon.png" width="28" height="28" alt="ChatGPT" />
+  <img src="https://avatars.githubusercontent.com/u/81847?s=80&v=4" width="28" height="28" style="border-radius:4px" alt="Claude" />
+  <img src="https://avatars.githubusercontent.com/u/187777663?s=48&v=4" width="28" height="28" style="border-radius:4px" alt="CherryStudio" />
+  <img src="https://raw.githubusercontent.com/ZONGZI-000/ZONGZI-000/main/%E5%9B%BE%E5%BA%8A/newmax-icon.png" width="28" height="28" alt="NewMax" />
 </p>
 <p align="center">
   <img src="https://img.shields.io/badge/-VS%20Code-000?style=flat-square&logo=visualstudiocode&logoColor=white" alt="VS Code" />
