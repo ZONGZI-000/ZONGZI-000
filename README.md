@@ -33,7 +33,7 @@
 <br>
 
 <p align="center">
-  <img src="./assets/readme/card-project.svg" width="100%" alt="开源项目">
+  <img src="./assets/readme/card-project.svg?v=2" width="100%" alt="开源项目">
 </p>
 
 <p align="center">
