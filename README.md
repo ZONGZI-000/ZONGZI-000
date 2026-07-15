@@ -73,11 +73,8 @@
 ### 搜索引擎
 - **[Google 视频搜索](https://cse.google.com/cse?cx=27ae7a7385f8b45be)** - 自定义视频内容搜索引擎
 
-### AI 智能体
-- **[豆包历史Bot](https://doubao.com/bot/nrvwxuNU)** - 处理历史相关问题的智能对话助手
-
 ---
-
+项目：chrome书签管理https://github.com/ZONGZI-000/Zongzi-Bookmark-Tools
 ## 💬 欢迎交流和分享！
 
 <div align="center">
