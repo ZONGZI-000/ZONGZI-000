@@ -32,7 +32,6 @@
 <p align="center">
   <img src="https://img.shields.io/badge/-VS%20Code-000?style=flat-square&logo=visualstudiocode&logoColor=white" alt="VS Code" />
   <img src="https://img.shields.io/badge/-Figma-000?style=flat-square&logo=figma&logoColor=white" alt="Figma" />
-  <img src="https://img.shields.io/badge/-Notion-000?style=flat-square&logo=notion&logoColor=white" alt="Notion" />
   <img src="https://img.shields.io/badge/-Obsidian-000?style=flat-square&logo=obsidian&logoColor=white" alt="Obsidian" />
 </p>
 
