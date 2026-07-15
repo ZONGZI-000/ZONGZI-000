@@ -22,10 +22,10 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/-ChatGPT-000?style=flat-square&logo=openai&logoColor=white" alt="ChatGPT" />
-  <img src="https://img.shields.io/badge/-Claude-000?style=flat-square&logo=anthropic&logoColor=white" alt="Claude" />
-  <img src="https://img.shields.io/badge/-Gemini-000?style=flat-square&logo=googlegemini&logoColor=white" alt="Gemini" />
-  <img src="https://img.shields.io/badge/-DeepSeek-000?style=flat-square&logoColor=white" alt="DeepSeek" />
+  <img src="https://avatars.githubusercontent.com/u/148330874?s=80&v=4" width="20" height="20" style="border-radius:4px" alt="DeepSeek" />
+  <img src="https://raw.githubusercontent.com/ZONGZI-000/ZONGZI-000/main/%E5%9B%BE%E5%BA%8A/gemini-icon.webp" width="20" height="20" alt="Gemini" />
+  <img src="https://raw.githubusercontent.com/ZONGZI-000/ZONGZI-000/main/%E5%9B%BE%E5%BA%8A/chatgpt-icon.png" width="20" height="20" alt="ChatGPT" />
+  <img src="https://avatars.githubusercontent.com/u/81847?s=80&v=4" width="20" height="20" style="border-radius:4px" alt="Claude" />
   <img src="https://img.shields.io/badge/-Cursor-000?style=flat-square&logo=cursor&logoColor=white" alt="Cursor" />
   <img src="https://img.shields.io/badge/-VS%20Code-000?style=flat-square&logo=visualstudiocode&logoColor=white" alt="VS Code" />
   <img src="https://img.shields.io/badge/-Figma-000?style=flat-square&logo=figma&logoColor=white" alt="Figma" />
