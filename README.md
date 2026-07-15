@@ -2,20 +2,12 @@
   <img src="./assets/readme/hero.svg?v=9" width="100%" alt="粽子 - Product · Design · AI Technology · Knowledge Management">
 </p>
 
-<p align="center">
-  <img src="./animation.gif" width="200" alt="ZONGZI-000 animation">
-</p>
+
 
 <br>
 
 <p align="center">
   <img src="./assets/readme/card-what-i-do.svg" width="100%" alt="我在做什么 - 产品设计 · AI 应用 · 知识管理">
-</p>
-
-<br>
-
-<p align="center">
-  <img src="./assets/readme/card-tools.svg" width="100%" alt="常用工具栈">
 </p>
 
 <p align="center">
@@ -29,9 +21,6 @@
   <img src="https://img.shields.io/badge/-Notion-000?style=flat-square&logo=notion&logoColor=white" alt="Notion" />
   <img src="https://img.shields.io/badge/-Obsidian-000?style=flat-square&logo=obsidian&logoColor=white" alt="Obsidian" />
 </p>
-
-<br>
-
 <p align="center">
   <img src="./assets/readme/card-project-v2.svg" width="100%" alt="开源项目">
 </p>
@@ -62,13 +51,6 @@
 
 <br>
 
-## 🤝 欢迎交流
-
-<p align="center">
-  📧 <a href="mailto:mr.zongzi666@gmail.com">mr.zongzi666@gmail.com</a>
-  &nbsp;&nbsp;·&nbsp;&nbsp;
-  💬 公众号：粽子上山指南针
-</p>
 
 <br>
 
@@ -87,8 +69,17 @@
   <img src="https://img.shields.io/badge/Made%20with%20%E2%9D%A4%EF%B8%8F-f5f5f4?style=flat-square&labelColor=f5f5f4&color=d97706" alt="Made with love" />
   &nbsp;
   <img src="https://img.shields.io/badge/Let's%20Build%20Together-d97706?style=flat-square" alt="Let's Build Together" />
-</p>
+## 🤝 欢迎交流
 
+<p align="center">
+  📧 <a href="mailto:mr.zongzi666@gmail.com">mr.zongzi666@gmail.com</a>
+  &nbsp;&nbsp;·&nbsp;&nbsp;
+  💬 公众号：粽子网上冲浪指南
+</p>
+</p>
+<p align="center">
+  <img src="./animation.gif" width="200" alt="ZONGZI-000 animation">
+</p>
 <p align="center">
   <sub>☕ 如果内容对你有帮助，不妨点个 Star 支持一下</sub>
 </p>
