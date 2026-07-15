@@ -14,7 +14,7 @@
     </linearGradient>
   <clipPath id="avatar-clip"><circle cx="960" cy="190" r="65"/></clipPath>
   </defs>
-  <rect width="1200" height="380" fill="url(#bg)" rx="16" stroke="#e7e5e4" stroke-width="1"/>
+  <rect width="1200" height="380" fill="url(#bg)" rx="16"/>
   <circle cx="1100" cy="60" r="180" fill="#d97706" opacity="0.04"/>
   <circle cx="100" cy="320" r="120" fill="#f59e0b" opacity="0.03"/>
   <circle cx="600" cy="190" r="250" fill="#d97706" opacity="0.02"/>
