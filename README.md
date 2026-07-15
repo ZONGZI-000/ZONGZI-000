@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./assets/readme/hero.svg?v=6" width="100%" alt="粽子 - Product · Design · AI Technology · Knowledge Management">
+  <img src="./assets/readme/hero.svg?v=7" width="100%" alt="粽子 - Product · Design · AI Technology · Knowledge Management">
 </p>
 
 
