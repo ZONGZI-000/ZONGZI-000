@@ -15,13 +15,6 @@
     <img src="./assets/readme/card-project-v2.svg" width="100%" alt="开源项目">
   </a>
 </p>
-
-<p align="center">
-  <a href="https://github.com/ZONGZI-000/Zongzi-Bookmark-Tools">
-    <img src="https://img.shields.io/badge/前往仓库-292524?style=for-the-badge&logo=github&logoColor=white" alt="前往仓库">
-  </a>
-</p>
-
 <br>
 
 <p align="center">
