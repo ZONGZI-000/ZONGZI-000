@@ -1,16 +1,16 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 110" width="100%">
   <defs>
-    <linearGradient id="bg-1" x1="0%" y1="0%" x2="100%" y2="0%">
-      <stop offset="0%" stop-color="#0f172a"/>
-      <stop offset="100%" stop-color="#1e293b"/>
+    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#fafaf9"/>
+      <stop offset="100%" stop-color="#f5f5f4"/>
     </linearGradient>
-    <linearGradient id="accent-1" x1="0%" y1="0%" x2="100%" y2="0%">
-      <stop offset="0%" stop-color="#f59e0b"/>
-      <stop offset="100%" stop-color="#f97316"/>
+    <linearGradient id="accent" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#d97706"/>
+      <stop offset="100%" stop-color="#f59e0b"/>
     </linearGradient>
   </defs>
-  <rect width="1200" height="110" fill="url(#bg-1)" rx="12"/>
-  <rect x="40" y="55" width="40" height="3" rx="1.5" fill="url(#accent-1)"/>
-  <text x="100" y="60" font-family="-apple-system,BlinkMacSystemFont,PingFang SC,sans-serif" font-size="26" font-weight="600" fill="#f1f5f9">🧭 我在做什么</text>
-  <text x="100" y="86" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,sans-serif" font-size="13" fill="#64748b">产品思维 · AI 实践 · 知识管理 · 持续成长</text>
+  <rect width="1200" height="110" fill="url(#bg)" rx="12" stroke="#e7e5e4" stroke-width="1"/>
+  <rect x="40" y="55" width="40" height="3" rx="1.5" fill="url(#accent)"/>
+  <text x="100" y="60" font-family="-apple-system,BlinkMacSystemFont,PingFang SC,sans-serif" font-size="26" font-weight="600" fill="#1c1917">🧭 我在做什么</text>
+  <text x="100" y="86" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,sans-serif" font-size="13" fill="#78716c">产品思维 · AI 实践 · 知识管理 · 持续成长</text>
 </svg>
