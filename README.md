@@ -1,11 +1,6 @@
 <p align="center">
   <img src="./assets/readme/hero.svg?v=9" width="100%" alt="粽子 - Product · Design · AI Technology · Knowledge Management">
 </p>
-
-<p align="center">
-  <img src="./animation.gif" width="200" alt="ZONGZI-000 animation">
-</p>
-
 <br>
 
 <p align="center">
@@ -14,9 +9,6 @@
 
 <br>
 
-<p align="center">
-  <img src="./assets/readme/card-tools.svg" width="100%" alt="常用工具栈">
-</p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/-ChatGPT-000?style=flat-square&logo=openai&logoColor=white" alt="ChatGPT" />
@@ -88,6 +80,9 @@
   <img src="https://img.shields.io/badge/Made%20with%20%E2%9D%A4%EF%B8%8F-f5f5f4?style=flat-square&labelColor=f5f5f4&color=d97706" alt="Made with love" />
   &nbsp;
   <img src="https://img.shields.io/badge/Let's%20Build%20Together-d97706?style=flat-square" alt="Let's Build Together" />
+</p>
+<p align="center">
+  <img src="./animation.gif" width="200" alt="ZONGZI-000 animation">
 </p>
 
 <p align="center">
