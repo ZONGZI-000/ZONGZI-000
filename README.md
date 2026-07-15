@@ -2,14 +2,13 @@
   <img src="./assets/readme/hero.svg?v=9" width="100%" alt="粽子 - Product · Design · AI Technology · Knowledge Management">
 </p>
 
-
-
 <br>
 
 <p align="center">
   <img src="./assets/readme/card-what-i-do.svg" width="100%" alt="我在做什么 - 产品设计 · AI 应用 · 知识管理">
 </p>
 
+<br>
 
 <p align="center">
   <img src="./assets/readme/card-project-v2.svg" width="100%" alt="开源项目">
@@ -20,6 +19,9 @@
     <img src="https://img.shields.io/badge/前往仓库-292524?style=for-the-badge&logo=github&logoColor=white" alt="前往仓库">
   </a>
 </p>
+
+<br>
+
 <p align="center">
   <img src="./assets/readme/card-stats.svg" width="100%" alt="GitHub 统计">
 </p>
@@ -28,6 +30,7 @@
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ZONGZI-000&theme=default" width="49%" alt="GitHub Stats" />
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ZONGZI-000&theme=default" width="49%" alt="Top Languages" />
 </p>
+
 <p align="center">
   <img src="https://img.shields.io/badge/-ChatGPT-000?style=flat-square&logo=openai&logoColor=white" alt="ChatGPT" />
   <img src="https://img.shields.io/badge/-Claude-000?style=flat-square&logo=anthropic&logoColor=white" alt="Claude" />
@@ -39,6 +42,9 @@
   <img src="https://img.shields.io/badge/-Notion-000?style=flat-square&logo=notion&logoColor=white" alt="Notion" />
   <img src="https://img.shields.io/badge/-Obsidian-000?style=flat-square&logo=obsidian&logoColor=white" alt="Obsidian" />
 </p>
+
+<br>
+
 ## 📖 知识库资源
 
 <p align="center">
@@ -54,10 +60,9 @@
     <img src="https://img.shields.io/badge/AI%20%26%20技术-7C3AED?style=for-the-badge&logo=openai&logoColor=white" alt="AI & 技术" />
   </a>
 </p>
-<p align="center">
-  <img src="https://img.shields.io/badge/Made%20with%20%E2%9D%A4%EF%B8%8F-f5f5f4?style=flat-square&labelColor=f5f5f4&color=d97706" alt="Made with love" />
-  &nbsp;
-  <img src="https://img.shields.io/badge/Let's%20Build%20Together-d97706?style=flat-square" alt="Let's Build Together" />
+
+<br>
+
 ## 🤝 欢迎交流
 
 <p align="center">
@@ -65,10 +70,19 @@
   &nbsp;&nbsp;·&nbsp;&nbsp;
   💬 公众号：粽子网上冲浪指南
 </p>
-</p>
+
 <p align="center">
   <img src="./animation.gif" width="200" alt="ZONGZI-000 animation">
 </p>
+
+<br>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Made%20with%20%E2%9D%A4%EF%B8%8F-f5f5f4?style=flat-square&labelColor=f5f5f4&color=d97706" alt="Made with love" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/Let's%20Build%20Together-d97706?style=flat-square" alt="Let's Build Together" />
+</p>
+
 <p align="center">
   <sub>☕ 如果内容对你有帮助，不妨点个 Star 支持一下</sub>
 </p>
